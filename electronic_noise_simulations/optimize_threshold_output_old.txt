@@ -1,0 +1,22 @@
+optimize_thresholds
+Loading PSF ... done!
+Elapsed time is 4.531488 seconds.
+Elapsed time is 10.399910 seconds.
+
+ans =
+
+     5    13    33    38    47    55    65    78   200
+
+Elapsed time is 1.051983 seconds.
+Elapsed time is 0.041045 seconds.
+
+ans =
+
+     5    34    54    72   200
+
+Elapsed time is 0.028058 seconds.
+Elapsed time is 0.017155 seconds.
+
+ans =
+
+     5    32   200

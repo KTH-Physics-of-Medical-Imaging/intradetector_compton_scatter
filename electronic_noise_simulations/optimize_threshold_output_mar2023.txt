@@ -1,0 +1,59 @@
+>> optimize_thresholds
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.952703e-16. 
+> In optimize_thresholds (line 133)
+ 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.657762e-16. 
+> In optimize_thresholds (line 133)
+ 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.407190e-16. 
+> In optimize_thresholds (line 133)
+ 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.194366e-16. 
+> In optimize_thresholds (line 133)
+ 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.013642e-16. 
+> In optimize_thresholds (line 133)
+ 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  8.602008e-17. 
+> In optimize_thresholds (line 133)
+ 
+b2=9
+b2=13
+b2=17
+b2=21
+b2=25
+b2=29
+b2=33
+b2=37
+b2=41
+b2=45
+b2=49
+b2=53
+b2=57
+b2=61
+b2=65
+b2=69
+b2=73
+b2=77
+Elapsed time is 288.511388 seconds.
+Elapsed time is 661.285464 seconds.
+
+ans =
+
+     5     7    14    33    38    47    56    73   200
+
+Elapsed time is 44.414229 seconds.
+Elapsed time is 0.725920 seconds.
+
+ans =
+
+     5    10    34    56   200
+
+Elapsed time is 0.221267 seconds.
+Elapsed time is 0.060647 seconds.
+
+ans =
+
+     5    32   200
+
+>> 
